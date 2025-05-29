@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vteam_Inventory/static/css/main.e6c13ad2.css",
+    "main.js": "/vteam_Inventory/static/js/main.02d986b1.js",
+    "static/js/453.71e21010.chunk.js": "/vteam_Inventory/static/js/453.71e21010.chunk.js",
+    "index.html": "/vteam_Inventory/index.html",
+    "main.e6c13ad2.css.map": "/vteam_Inventory/static/css/main.e6c13ad2.css.map",
+    "main.02d986b1.js.map": "/vteam_Inventory/static/js/main.02d986b1.js.map",
+    "453.71e21010.chunk.js.map": "/vteam_Inventory/static/js/453.71e21010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.02d986b1.js"
+  ]
+}
